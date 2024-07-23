@@ -7,6 +7,13 @@ The 16-Bit-Studio sources, the generated code as well as the executable demo are
 - Amiga 500 + 512 Kb Slow RAM
 - Kickstart 1.3
 
+# Used Assets:
+
+- Background: Air Gallet Arcade
+- "Flying" Enemies, Bullets, Explosions, Player, Extras (=all Sprites) Xenon 2
+- Ground Explosion: https://opengameart.org/content/explosion-set-1-m484-games
+- Ground Enemies: https://opengameart.org/content/forest-monsters 
+
 # Editor View:
 
 ![16 Bit Studio Editor](/docs/Bild3.png)
